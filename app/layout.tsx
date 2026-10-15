@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   // العنوان يجمع الرقم مع كلمات البحث الطويلة (Long-tail Keywords)
-  title: 'معلم تلييس ولياسة (تليوس) وترميم محترف في اليمن | 780332004',
+  title: 'معلم تلييس ولياسة (تليوس) وترميم محترف في اليمن | 775321859',
   description: 'مقاول تلييس وتليوس (لياسة) وتسميت وحجر صناعي وزخرفة خارجية. متخصصون في الترميم والتشطيب في صنعاء، ذمار، عدن، تعز، إب وكافة اليمن. دقة هندسية في التربيع والتأكيس.',
   keywords: [
     "تليوس اليمن", "معلم تلييس محترف", "مقاول ترميم مباني", "تسميت جدران", 
@@ -30,7 +30,7 @@ export default function RootLayout({
     "@type": "ConstructionBusiness", // تصنيف الأعمال الإنشائية
     "name": "معلم لياسة وتلييس محترف - اليمن",
     "alternateName": "مقاول تليوس وترميم اليمن",
-    "telephone": "+967780332004",
+    "telephone": "+967775321859",
     "url": "https://plaster-work.vercel.app/",
     "logo": "https://plaster-work.vercel.app/images/logo.jpg", // إذا توفر لوجو مستقبلاً
     "address": {
