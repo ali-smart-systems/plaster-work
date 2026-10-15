@@ -4,8 +4,8 @@ import ContactButtons from '@/components/ContactButtons';
 import Gallery from '@/components/Gallery';
 
 export default function Home() {
-  const phoneNumber = "780332004";
-  const internationalNumber = "+967780332004";
+  const phoneNumber = "775321859";
+  const internationalNumber = "+967775321859";
 
   // قائمة بجميع المحافظات الـ 22
   const governorates = [
